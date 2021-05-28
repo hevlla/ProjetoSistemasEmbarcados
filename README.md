@@ -50,6 +50,9 @@
 ## Descrição do funcionamento do projeto:
   O controlador de nível de água, possui 2 sensores de nível tipo bóia que informaram três estados: cheio, mediano e crítico, este será o responsável por acionar o relé que ligará a bomba para encher a caixa da água até o estado cheio, onde será desligada.
 
+## Link para a videoaula correspondente à explicação do circuito elétrico e o código utilizado no desenvolvimento do projeto:
+  O vídeo está disponível no YouTube no seguinte endereço: https://youtu.be/xt-_fORybkc
+
 ## Artigos de referência:
   Controle de nível de água em relação a rio - https://bityli.com/8xCLy
   Automatização de cisternas e caixa d’água de condomínios via CLP - http://repositorio.utfpr.edu.br/jspui/handle/1/16909
